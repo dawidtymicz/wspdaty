@@ -1,0 +1,2 @@
+# wspdaty
+Dawid Tymicz.
